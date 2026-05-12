@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cicsdefinitionfile xmlns="http://www.ibm.com/xmlns/prod/CICS/smw2int" 
+    name="XMPLESDS" 
+    dsname="ZOSADMN.TEST.ESDS.STOCK" 
+    add="YES" 
+    browse="YES" 
+    delete="NO" 
+    read="YES" 
+    update="YES" />
+

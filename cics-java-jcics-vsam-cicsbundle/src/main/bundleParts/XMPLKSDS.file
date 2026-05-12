@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cicsdefinitionfile xmlns="http://www.ibm.com/xmlns/prod/CICS/smw2int" 
+    name="XMPLKSDS" 
+    dsname="ZOSADMN.TEST.KSDS.STOCK" 
+    add="YES" 
+    browse="YES" 
+    delete="YES" 
+    read="YES" 
+    update="YES" />
