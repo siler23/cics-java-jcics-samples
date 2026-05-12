@@ -10,7 +10,7 @@ include(':cics-java-jcics-terminal-cicsbundle')
 include(':cics-java-jcics-tsq-app')
 include(':cics-java-jcics-tsq-cicsbundle')
 include(':cics-java-jcics-vsam-app')
-include(':cics-java-jcics-vsam-cicscicsbundle')
+include(':cics-java-jcics-vsam-cicsbundle')
 
 
 
